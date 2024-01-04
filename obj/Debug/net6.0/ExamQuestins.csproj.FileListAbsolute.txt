@@ -1,0 +1,15 @@
+C:\Users\bobby\documents\C#\examQuestins\bin\Debug\net6.0\ExamQuestins.exe
+C:\Users\bobby\documents\C#\examQuestins\bin\Debug\net6.0\ExamQuestins.deps.json
+C:\Users\bobby\documents\C#\examQuestins\bin\Debug\net6.0\ExamQuestins.runtimeconfig.json
+C:\Users\bobby\documents\C#\examQuestins\bin\Debug\net6.0\ExamQuestins.dll
+C:\Users\bobby\documents\C#\examQuestins\bin\Debug\net6.0\ExamQuestins.pdb
+C:\Users\bobby\documents\C#\examQuestins\obj\Debug\net6.0\ExamQuestins.csproj.AssemblyReference.cache
+C:\Users\bobby\documents\C#\examQuestins\obj\Debug\net6.0\ExamQuestins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobby\documents\C#\examQuestins\obj\Debug\net6.0\ExamQuestins.AssemblyInfoInputs.cache
+C:\Users\bobby\documents\C#\examQuestins\obj\Debug\net6.0\ExamQuestins.AssemblyInfo.cs
+C:\Users\bobby\documents\C#\examQuestins\obj\Debug\net6.0\ExamQuestins.csproj.CoreCompileInputs.cache
+C:\Users\bobby\documents\C#\examQuestins\obj\Debug\net6.0\ExamQuestins.dll
+C:\Users\bobby\documents\C#\examQuestins\obj\Debug\net6.0\refint\ExamQuestins.dll
+C:\Users\bobby\documents\C#\examQuestins\obj\Debug\net6.0\ExamQuestins.pdb
+C:\Users\bobby\documents\C#\examQuestins\obj\Debug\net6.0\ExamQuestins.genruntimeconfig.cache
+C:\Users\bobby\documents\C#\examQuestins\obj\Debug\net6.0\ref\ExamQuestins.dll
